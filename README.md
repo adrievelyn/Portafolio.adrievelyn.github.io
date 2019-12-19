@@ -1,4 +1,4 @@
-Portafolio de Adriana Evelyn Sánchez Mejias. Front-End Developer
+## Portafolio de Adriana Evelyn Sánchez Mejias. Front-End Developer
 
 ## Available Scripts
 
