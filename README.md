@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Portafolio de Adriana Evelyn Sánchez Mejias. Front-End Developer
 
 ## Available Scripts
 
