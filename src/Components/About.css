@@ -1,0 +1,28 @@
+.AboutMe{
+	margin-top: 10%;
+	margin-left: 15%;
+	margin-right: 20%;
+}
+
+.Habilities {
+	justify-content: space-around; 
+	margin-left: 15%;
+	margin-right: 25%;
+	display: flex;
+}
+
+.HTML, .Git {
+	margin-top: 5%;
+}
+
+.React .Firebase{
+	margin-top: 20%;
+}
+
+.Native, .Boostrap{
+	margin-top: 15%;
+}
+
+.CSS{
+	margin-top: 20%;
+}

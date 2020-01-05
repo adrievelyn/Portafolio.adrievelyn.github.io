@@ -1,0 +1,73 @@
+
+.GeneralMenu{
+	list-style:none;
+	justify-content: space-around;
+	display: contents;
+}
+
+ .CV{
+	margin-right: 28%;
+}
+
+.Home{
+	margin-left: 15%;
+}
+
+.Icono {
+	
+	display: flex;
+	justify-content: space-around;
+	margin-top: 5%;
+	margin-left: 20%;
+}
+
+.Menu{
+	
+	justify-content: flex-end;
+	justify-content: space-around;
+}
+
+.Button{
+	margin-left: 0;
+}
+
+.Container{
+	background-color: #000000;
+}
+
+.PhoName{
+	display: flex;
+	justify-content: space-around;
+	
+}
+
+.Photo{
+	margin-top: 80px;
+	margin-left: 10%;
+}
+
+.Name{
+	margin-top: 180px;
+	margin-right: 20%;
+	color: #F27127;
+	font-size: 20px;
+
+}
+
+a:hover{
+
+  color: #F27127;
+}
+
+#p01{
+	color: #000000;
+}
+
+.Button{
+  background-color: #000000;
+  background-repeat:no-repeat; 
+}
+
+p{
+	font-size: 15px;
+}
