@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import MenuIcon from '../Styles/ASM.png'
 import PersonalPhoto from '../Styles/adriana_foto.png';
 import About from '../Components/About.js';
-
+import Projects from '../Components/Projects.js';
 
 
 class Home extends React.Component {
@@ -34,6 +34,7 @@ class Home extends React.Component {
 						</div>
 				</div>
 		<About />
+		<Projects />
 </div>
 
 			

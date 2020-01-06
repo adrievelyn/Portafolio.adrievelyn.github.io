@@ -1,0 +1,51 @@
+.BQ{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 15px;
+}
+
+.BQ2{
+	margin-left: 15%;
+	
+}
+
+.BQ3{
+	margin-right: 20%;
+	margin-left: 5%;
+	margin-top: 2%;
+}
+
+.RS{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 6px;
+}
+
+.RS2{
+	margin-left: 15%;
+	margin-top: 2%;
+	
+}
+
+.RS3{
+	margin-right: 20%;
+	margin-left: 5%;
+	margin-top: 1%;
+}
+
+.SD{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 10px;
+}
+
+.SD2{
+	margin-left: 15%;
+	
+}
+
+.SD3{
+	margin-right: 20%;
+	margin-left: 5%;
+	margin-top: 2%;
+}

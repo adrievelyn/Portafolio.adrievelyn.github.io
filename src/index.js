@@ -18,5 +18,5 @@ import * as serviceWorker from './serviceWorker';
 
 const container = document.getElementById('app');
 
-ReactDOM.render(<Projects />, container);
+ReactDOM.render(<Home />, container);
 
