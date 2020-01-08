@@ -42,25 +42,12 @@ class Home extends React.Component {
 			)
 
 
-		}
-	};
-
-
-
-//<button type="submit"><img src="./Styles/input.svg" alt=""/></button>
-//<a href="URL_BLOG"> <img border="0" height="35" width="45" src="./Styles/input.svg" /></a> 
-//<a href="#"><img border="0" height="35" width="45" src="./Styles/input.png"/></a>
-
-//<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-//<link rel="icon" href="/favicon.ico" type="image/x-icon">
-//<a href="/favicon.ico" type="AS/png"> <img border="0" height="35" width="45"/></a>
+		};
+	}
 
 
 
 
-			
-
-    
 
 
 
