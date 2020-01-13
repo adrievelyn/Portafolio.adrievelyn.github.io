@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/adrievelyn/Portfolio/static/css/main.311ddf69.chunk.css",
-    "main.js": "/adrievelyn/Portfolio/static/js/main.3a5923db.chunk.js",
-    "main.js.map": "/adrievelyn/Portfolio/static/js/main.3a5923db.chunk.js.map",
-    "runtime-main.js": "/adrievelyn/Portfolio/static/js/runtime-main.90a8b6bf.js",
-    "runtime-main.js.map": "/adrievelyn/Portfolio/static/js/runtime-main.90a8b6bf.js.map",
-    "static/css/2.64a99b10.chunk.css": "/adrievelyn/Portfolio/static/css/2.64a99b10.chunk.css",
-    "static/js/2.66aed393.chunk.js": "/adrievelyn/Portfolio/static/js/2.66aed393.chunk.js",
-    "static/js/2.66aed393.chunk.js.map": "/adrievelyn/Portfolio/static/js/2.66aed393.chunk.js.map",
-    "index.html": "/adrievelyn/Portfolio/index.html",
-    "precache-manifest.02a10a31b91739e6efe8f7fcb4037bde.js": "/adrievelyn/Portfolio/precache-manifest.02a10a31b91739e6efe8f7fcb4037bde.js",
-    "service-worker.js": "/adrievelyn/Portfolio/service-worker.js",
-    "static/css/2.64a99b10.chunk.css.map": "/adrievelyn/Portfolio/static/css/2.64a99b10.chunk.css.map",
-    "static/css/main.311ddf69.chunk.css.map": "/adrievelyn/Portfolio/static/css/main.311ddf69.chunk.css.map",
-    "static/js/2.66aed393.chunk.js.LICENSE": "/adrievelyn/Portfolio/static/js/2.66aed393.chunk.js.LICENSE",
-    "static/media/BurgerQueen.png": "/adrievelyn/Portfolio/static/media/BurgerQueen.2e2d08a4.png",
-    "static/media/RedSocial.jpg": "/adrievelyn/Portfolio/static/media/RedSocial.de281d62.jpg",
-    "static/media/SocialData.jpg": "/adrievelyn/Portfolio/static/media/SocialData.0d93f21d.jpg",
-    "static/media/adriana_foto.png": "/adrievelyn/Portfolio/static/media/adriana_foto.e18062ca.png",
-    "static/media/logo.svg": "/adrievelyn/Portfolio/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Portfolio/static/css/main.311ddf69.chunk.css",
+    "main.js": "/Portfolio/static/js/main.bba8f5b9.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.bba8f5b9.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.ba21c266.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.ba21c266.js.map",
+    "static/css/2.64a99b10.chunk.css": "/Portfolio/static/css/2.64a99b10.chunk.css",
+    "static/js/2.66aed393.chunk.js": "/Portfolio/static/js/2.66aed393.chunk.js",
+    "static/js/2.66aed393.chunk.js.map": "/Portfolio/static/js/2.66aed393.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.ab9ee387453cb24ad611014601d09756.js": "/Portfolio/precache-manifest.ab9ee387453cb24ad611014601d09756.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/Portfolio/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.311ddf69.chunk.css.map": "/Portfolio/static/css/main.311ddf69.chunk.css.map",
+    "static/js/2.66aed393.chunk.js.LICENSE": "/Portfolio/static/js/2.66aed393.chunk.js.LICENSE",
+    "static/media/BurgerQueen.png": "/Portfolio/static/media/BurgerQueen.2e2d08a4.png",
+    "static/media/RedSocial.jpg": "/Portfolio/static/media/RedSocial.de281d62.jpg",
+    "static/media/SocialData.jpg": "/Portfolio/static/media/SocialData.0d93f21d.jpg",
+    "static/media/adriana_foto.png": "/Portfolio/static/media/adriana_foto.e18062ca.png",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90a8b6bf.js",
+    "static/js/runtime-main.ba21c266.js",
     "static/css/2.64a99b10.chunk.css",
     "static/js/2.66aed393.chunk.js",
     "static/css/main.311ddf69.chunk.css",
-    "static/js/main.3a5923db.chunk.js"
+    "static/js/main.bba8f5b9.chunk.js"
   ]
 }
