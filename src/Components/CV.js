@@ -24,7 +24,7 @@ class CV extends React.Component {
 		<div className='SayHi'>
 			<h3>Si tienes un proyecto o solo quieres saludar, escríbeme a: </h3>
 
-adrievelyn@gmail.com 
+<h5>adrievelyn@gmail.com </h5>
 <h4>También puedes saber más sobre mí y mi trabajo aquí:</h4>
 </div>
 				<div className='CV2'>
