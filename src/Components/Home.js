@@ -18,7 +18,18 @@ class Home extends React.Component {
 
 
 			<div className='Icono'>
-			<div className="button">
+
+			
+				<ul className='GeneralMenu'>
+					<li className='Home'><a href="#1" title="Home" id="p01">Home</a></li>
+   					<li className='About'><a href="#2" title="About" id="p01">About Me</a></li>
+   					<li className='Projects'><a href="#3" title="Services" id="p01">Projects</a></li>
+   					<li className='CV'><a href="#4" title="Portfolio" id="p01">CV</a></li>
+				</ul>
+
+
+				</div>
+							<div className="button">
   <button type="button"  data-toggle="dropdown"><span className="button"> <img border="0" height="40" width="50" src={MenuIcon} /></span></button>
   <ul className="dropdown-menu">
     <li><a href="#1">Home</a></li>
@@ -27,14 +38,6 @@ class Home extends React.Component {
     <li><a href="#4">CV</a></li>
   </ul>
 </div>
-			
-				<ul className='GeneralMenu'>
-					<li className='Home'><a href="#1" title="Home" id="p01">Home</a></li>
-   					<li className='About'><a href="#2" title="About" id="p01">About Me</a></li>
-   					<li className='Projects'><a href="#3" title="Services" id="p01">Projects</a></li>
-   					<li className='CV'><a href="#4" title="Portfolio" id="p01">CV</a></li>
-				</ul>
-				</div>
 					<div className='PhoName'>
 						<div className='Photo'>
 							<img border="0" height="260" width="300" src={PersonalPhoto} />

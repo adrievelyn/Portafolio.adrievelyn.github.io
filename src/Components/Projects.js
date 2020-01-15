@@ -14,15 +14,7 @@ class Projects extends React.Component {
 		return(
 			
 		<div id='3' className='Projects1'>
-		<div className="button">
-  <button type="button"  data-toggle="dropdown"><span className="caret"> <img border="0" height="40" width="50" src={MenuIcon} /></span></button>
-  <ul className="dropdown-menu">
-   	<li><a href="#1">Home</a></li>
-    <li><a href="#2">About Me</a></li>
-    <li><a href="#3">Projects</a></li>
-    <li><a href="#4">CV</a></li>
-  </ul>
-</div>
+
 		<div className='BQ'>
 			<div className='BQ2'>
 					<a href='https://adrievelyn.github.io/SCL010-Burger-Queen/'><img border="0" height="150" width="170" src={BurgerQueen} /></a>

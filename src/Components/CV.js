@@ -11,15 +11,7 @@ class CV extends React.Component {
 	render(){
 		return (
 			<div id="4" className='CV1'>
-			<div className="button">
-  <button type="button"  data-toggle="dropdown"><span className="caret"> <img border="0" height="40" width="50" src={MenuIcon} /></span></button>
-  <ul className="dropdown-menu">
-   <li><a href="#1">Home</a></li>
-    <li><a href="#2">About Me</a></li>
-    <li><a href="#3">Projects</a></li>
-    <li><a href="#4">CV</a></li>
-  </ul>
-</div>
+
 
 		<div className='SayHi'>
 			<h3>Si tienes un proyecto o solo quieres saludar, escríbeme a: </h3>
