@@ -3,6 +3,8 @@
 	list-style:none;
 	justify-content: space-around;
 	display: contents;
+
+
 }
 
  .CV{
@@ -10,26 +12,35 @@
 }
 
 .Home{
-	margin-left: 15%;
+	margin-left:10%;
+
 }
 
 .Icono {
 	
 	display: flex;
 	justify-content: space-around;
-	margin-top: 5%;
-	margin-left: 20%;
+	margin-top: 0;
+	margin-left: 15%;
+
 }
 
 .Menu{
 	
 	justify-content: flex-end;
 	justify-content: space-around;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 20px;
+	background-image: url('https://static.videezy.com/system/resources/thumbnails/000/012/825/original/soft-particles-floating-and-going-up-on-dark-background-in-4k.jpg');
+
 }
 
-.Button{
+.button{
 	margin-left: 0;
+
+
 }
+
 
 .Container{
 	background-color: #000000;
@@ -44,14 +55,14 @@
 
 .Photo{
 	margin-top: 80px;
-	margin-left: 10%;
+	margin-left: 18%;
 }
 
 .Name{
-	margin-top: 180px;
+	margin-top: 150px;
 	margin-right: 20%;
 	color: #F27127;
-	font-size: 20px;
+	font-size: 30px;
 
 }
 
@@ -61,14 +72,64 @@ a:hover{
 }
 
 #p01{
-	color: #000000;
-}
+	color: #ffffff;
 
-.Button{
-  background-color: #000000;
-  background-repeat:no-repeat; 
 }
 
 p{
-	font-size: 15px;
+	
+font-family: 'Alegreya Sans', sans-serif;
+}
+
+
+
+@media screen and (max-width:800px){
+.GeneralMenu{
+	display: none;
+	}
+.Icono{
+	display: inline-flex;
+	margin-left: 10%;
+	}
+
+p{
+	font-size: 70%;
+	margin-left: 10%;
+}
+
+.Photo{
+	height: 50%;
+	width: 50%;
+}
+
+.button{
+	height: 5%;
+	width: 5%;
+	margin-left: 20%;
+	
+}
+
+
+
+span{
+	align-content: center;
+	display: flex;
+	justify-content: f;
+
+
+}
+
+.Photo{
+display: none
+
+}
+	
+.Name{
+	font-size: 300%;
+	margin-top: 10%;
+	margin-left: 25%;
+	font-family: 'Lobster', cursive;
+}
+
+
 }

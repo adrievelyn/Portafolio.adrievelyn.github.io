@@ -5,6 +5,7 @@ import App from './App';
 import Home from './Components/Home.js';
 import About from './Components/About.js';
 import Projects from './Components/Projects.js';
+import CV from './Components/CV.js';
 import 'bootstrap/dist/css/bootstrap.css';
 
 import * as serviceWorker from './serviceWorker';

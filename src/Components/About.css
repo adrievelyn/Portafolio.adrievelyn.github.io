@@ -1,15 +1,18 @@
 .AboutMe{
-	margin-top: 10%;
-	margin-left: 15%;
+	margin-left: 20%;
 	margin-right: 20%;
+	font-size: 20px;
+	font-family: 'Alegreya Sans', sans-serif;
+	color: white;
+
 }
 
 .Habilities {
 	justify-content: space-around; 
-	margin-left: 15%;
+	margin-left: 25%;
 	margin-right: 25%;
 	display: flex;
-	margin-top: 8px;
+	margin-top: 20px;
 }
 
 .HTML, .Git {
@@ -17,13 +20,31 @@
 }
 
 .React .Firebase{
-	margin-top: 20%;
+	margin-top: 10%;
 }
 
 .Native, .Boostrap{
-	margin-top: 15%;
+	margin-top: 10%;
 }
 
 .CSS{
-	margin-top: 20%;
+	margin-top: 15%;
+}
+
+.About2, .About1{
+	margin-top: 5%;
+}
+
+button{
+	margin-left: 20%;
+	background-color: black;
+	border-color: black;
+
+}
+
+@media screen and (max-width:800px){
+	.Habilities{
+		display: flex;
+		flex-wrap: wrap;
+	}
 }

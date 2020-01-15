@@ -9,23 +9,32 @@ import Bootstrap from '../Styles/Bootstrap.png';
 import Firebase from '../Styles/Firebase.png';
 import GitHub from '../Styles/Git.png';
 import Agil from '../Styles/Agil.png';
+import MenuIcon from '../Styles/ASM.png'
 
 
 class About extends React.Component {
 	render(){
 		return (
 
-			<div className=''>
-			<div className=''>
+			<div id="2" className='About1'>
+
+			<div className="button">
+  <button type="button"  data-toggle="dropdown"><span className="caret"> <img border="0" height="40" width="50" src={MenuIcon} /></span></button>
+  <ul className="dropdown-menu">
+   <li><a href="#1">Home</a></li>
+    <li><a href="#2">About Me</a></li>
+    <li><a href="#3">Projects</a></li>
+    <li><a href="#4">CV</a></li>
+  </ul>
+</div>
+			<div className='About2'>
 				
-						<div id="2" className='AboutMe'>
-							
-							<p> Elijo programar porque me permite de manera constante continuar aprendiendo, trabajando con metodologías ágiles y porque me da la posibilidad de crear y comunicar construyendo código. 
-								Al pasar por el BootCamp de Laboratoria, adquirí las habilidades necesarias para trabajar como Front-End Developer, desarrollando una gran capacidad de organización y compromiso con lo que hago.
-								Soy Licenciada en Recursos Humanos, donde aprendí a gestionar equipos de trabajos y proyectos de forma dinámica. Creo que con compromiso, constancia y dedicación, se alcanzan las metas propuestas.
-								Disfruto tener una participación constante en cada una de la etapas de Desarrollo de un producto, hasta la entrega final.
-								Acepto trabajar con un equipo donde todos seamos críticos para mejorar como profesionales.
-								Me apasiona aprender más tecnologías que puedan aumentar mis conocimientos y permitirme mejorar cada día.</p>
+						<div className='AboutMe'>
+							<p> Elijo programar porque se ha convertido en mi pasión, poder volver algo simple en algo extraordinario con códigos, resultó ser fascinante.
+								Cuento con las habilidades necesarias para trabajar como Front-End Developer, desarrollando una gran capacidad de organización y compromiso con lo que hago.
+								Soy Licenciada en Recursos Humanos, donde aprendí a gestionar equipos de trabajos y proyectos de forma dinámica.
+								Me apasiona aprender más tecnologías que puedan aumentar mis conocimientos y permitirme mejorar cada día.
+								Hoy digo con toda confianza: Hola, Soy Adriana, Desarrolladora Front-end.</p>
 						
 							</div>
 
