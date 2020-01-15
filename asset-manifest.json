@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.4a453138.chunk.css",
-    "main.js": "/Portfolio/static/js/main.5b61a004.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.5b61a004.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.af8bd50d.chunk.css",
+    "main.js": "/Portfolio/static/js/main.3f6842ab.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.3f6842ab.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.ba21c266.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.ba21c266.js.map",
     "static/css/2.64a99b10.chunk.css": "/Portfolio/static/css/2.64a99b10.chunk.css",
-    "static/js/2.886c62bf.chunk.js": "/Portfolio/static/js/2.886c62bf.chunk.js",
-    "static/js/2.886c62bf.chunk.js.map": "/Portfolio/static/js/2.886c62bf.chunk.js.map",
+    "static/js/2.d166b433.chunk.js": "/Portfolio/static/js/2.d166b433.chunk.js",
+    "static/js/2.d166b433.chunk.js.map": "/Portfolio/static/js/2.d166b433.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.ba659efa5fa6efe92a54c25b28ac6ba0.js": "/Portfolio/precache-manifest.ba659efa5fa6efe92a54c25b28ac6ba0.js",
+    "precache-manifest.778ce27d6fbe43c057a35c3b1fc8ef1a.js": "/Portfolio/precache-manifest.778ce27d6fbe43c057a35c3b1fc8ef1a.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/2.64a99b10.chunk.css.map": "/Portfolio/static/css/2.64a99b10.chunk.css.map",
-    "static/css/main.4a453138.chunk.css.map": "/Portfolio/static/css/main.4a453138.chunk.css.map",
-    "static/js/2.886c62bf.chunk.js.LICENSE": "/Portfolio/static/js/2.886c62bf.chunk.js.LICENSE",
+    "static/css/main.af8bd50d.chunk.css.map": "/Portfolio/static/css/main.af8bd50d.chunk.css.map",
+    "static/js/2.d166b433.chunk.js.LICENSE": "/Portfolio/static/js/2.d166b433.chunk.js.LICENSE",
     "static/media/BurgerQueen.png": "/Portfolio/static/media/BurgerQueen.2e2d08a4.png",
     "static/media/CV.svg": "/Portfolio/static/media/CV.d97f931a.svg",
     "static/media/RedSocial.jpg": "/Portfolio/static/media/RedSocial.de281d62.jpg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.ba21c266.js",
     "static/css/2.64a99b10.chunk.css",
-    "static/js/2.886c62bf.chunk.js",
-    "static/css/main.4a453138.chunk.css",
-    "static/js/main.5b61a004.chunk.js"
+    "static/js/2.d166b433.chunk.js",
+    "static/css/main.af8bd50d.chunk.css",
+    "static/js/main.3f6842ab.chunk.js"
   ]
 }
