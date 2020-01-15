@@ -31,10 +31,9 @@ class About extends React.Component {
 				
 						<div className='AboutMe'>
 							<p> Elijo programar porque se ha convertido en mi pasión, poder volver algo simple en algo extraordinario con códigos, resultó ser fascinante.
-								Cuento con las habilidades necesarias para trabajar como Front-End Developer, desarrollando una gran capacidad de organización y compromiso con lo que hago.
 								Soy Licenciada en Recursos Humanos, donde aprendí a gestionar equipos de trabajos y proyectos de forma dinámica.
 								Me apasiona aprender más tecnologías que puedan aumentar mis conocimientos y permitirme mejorar cada día.
-								Hoy digo con toda confianza: Hola, Soy Adriana, Desarrolladora Front-end.</p>
+								Te invito a conocer algunos de mis Proyectos.</p>
 						
 							</div>
 
