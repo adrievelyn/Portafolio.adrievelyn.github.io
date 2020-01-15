@@ -91,6 +91,8 @@ font-family: 'Alegreya Sans', sans-serif;
 
 
 @media screen and (max-width:800px){
+
+	<div id='1' style={{backgroundColor: "black" }} className='Menu'>
 .GeneralMenu{
 	 display: -webkit-inline-box;
 	justify-content: space-between;
@@ -98,13 +100,11 @@ font-family: 'Alegreya Sans', sans-serif;
 }
 
 .About, .Projects, .CV{
-	margin-left: 20%;
+	margin-left: 25%;
 }
 .Icono{
 	display: inline-flex;
-	margin-left: 10%;
-
-
+	margin-left: 15%;
 	}
 
 p{
@@ -117,16 +117,10 @@ p{
 	width: 50%;
 }
 
-
-
-
-
 span{
 	align-content: center;
 	display: flex;
 	justify-content: f;
-
-
 }
 
 .Photo{
