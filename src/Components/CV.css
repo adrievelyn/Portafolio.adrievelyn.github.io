@@ -1,6 +1,6 @@
 .CV2{
 	display: flex;
-	margin-top: 300PX;
+	margin-top: 200PX;
 	justify-content: space-around;
 }
 
@@ -15,6 +15,17 @@
 button{
 	margin-left: 20%;
 }
+
+.SayHi{
+	color: white;
+	margin-left: 20%;
+	margin-top: 15%;
+}
+
+h4{
+	margin-top: 10%;
+}
+
 
 @media screen and (max-width:800px){
 	.CV2{

@@ -20,6 +20,13 @@ class CV extends React.Component {
     <li><a href="#4">CV</a></li>
   </ul>
 </div>
+
+		<div className='SayHi'>
+			<h3>Si tienes un proyecto o solo quieres saludar, escríbeme a: </h3>
+
+adrievelyn@gmail.com 
+<h4>También puedes saber más sobre mí y mi trabajo aquí:</h4>
+</div>
 				<div className='CV2'>
 					<div className='CV3'>
 					<a href='https://www.linkedin.com/in/adriana-sanchez-mejias'><img border="0" height="70" width="40" src={Linkedin} /></a>
@@ -27,10 +34,6 @@ class CV extends React.Component {
 
 				<div className='CV4'>
 					<a href='https://github.com/adrievelyn'><img border="0" height="65" width="35" src={GitHub} /></a>
-				</div>
-
-				<div className='CV5'>
-					<a href='mailto:adrievelyn@gmail.com'><img border="0" height="70" width="30" src={GMail} /></a>
 				</div>
 
 				<div className='CV6'>
