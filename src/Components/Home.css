@@ -100,11 +100,11 @@ font-family: 'Alegreya Sans', sans-serif;
 }
 
 .About, .Projects, .CV{
-	margin-left: 15%;
+	margin-left: 10%;
 }
 .Icono{
 	display: inline-flex;
-	margin-left: 20%;
+	margin-left: 15%;
 	}
 
 p{
