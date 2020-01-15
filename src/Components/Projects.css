@@ -85,12 +85,14 @@ button{
 }
 
 .BQ3, .RS3, .SD3{
-   margin-left: 35%;
+   margin-left: 30%;
+   align-items: center;
 }
 
-.RS2{
-	margin-left: 35%;
-	margin-right: 20%;
+.BQ2, .RS2, .SD2{
+	margin-left: 25%;
+	margin-right: 25%;
+	align-items: center;
 }
 
 
