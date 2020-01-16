@@ -1,34 +1,34 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.52110c6a.chunk.css",
-    "main.js": "/Portfolio/static/js/main.3f6842ab.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.3f6842ab.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.933e2dd8.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.933e2dd8.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.ba21c266.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.ba21c266.js.map",
     "static/css/2.64a99b10.chunk.css": "/Portfolio/static/css/2.64a99b10.chunk.css",
     "static/js/2.d166b433.chunk.js": "/Portfolio/static/js/2.d166b433.chunk.js",
     "static/js/2.d166b433.chunk.js.map": "/Portfolio/static/js/2.d166b433.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.b1d40b44bb85159780c71b0ac61f8317.js": "/Portfolio/precache-manifest.b1d40b44bb85159780c71b0ac61f8317.js",
+    "precache-manifest.fabdc9e302b75f3ef4860742c2472a12.js": "/Portfolio/precache-manifest.fabdc9e302b75f3ef4860742c2472a12.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/2.64a99b10.chunk.css.map": "/Portfolio/static/css/2.64a99b10.chunk.css.map",
     "static/css/main.52110c6a.chunk.css.map": "/Portfolio/static/css/main.52110c6a.chunk.css.map",
     "static/js/2.d166b433.chunk.js.LICENSE": "/Portfolio/static/js/2.d166b433.chunk.js.LICENSE",
-    "static/media/BurgerQueen.png": "/Portfolio/static/media/BurgerQueen.2e2d08a4.png",
     "static/media/CV.svg": "/Portfolio/static/media/CV.d97f931a.svg",
-    "static/media/RedSocial.jpg": "/Portfolio/static/media/RedSocial.de281d62.jpg",
-    "static/media/SocialData.jpg": "/Portfolio/static/media/SocialData.0d93f21d.jpg",
     "static/media/adriana_foto.png": "/Portfolio/static/media/adriana_foto.e18062ca.png",
     "static/media/github2.svg": "/Portfolio/static/media/github2.e4f2d6b0.svg",
     "static/media/gmail.svg": "/Portfolio/static/media/gmail.deda33ae.svg",
     "static/media/linkedin.svg": "/Portfolio/static/media/linkedin.14f7b675.svg",
-    "static/media/logo.svg": "/Portfolio/static/media/logo.2a4875a9.svg"
+    "static/media/logo.svg": "/Portfolio/static/media/logo.2a4875a9.svg",
+    "static/media/redSocial.png": "/Portfolio/static/media/redSocial.06a25294.png",
+    "static/media/restoran.png": "/Portfolio/static/media/restoran.3e3f847b.png",
+    "static/media/socialD.png": "/Portfolio/static/media/socialD.5ae0b661.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ba21c266.js",
     "static/css/2.64a99b10.chunk.css",
     "static/js/2.d166b433.chunk.js",
     "static/css/main.52110c6a.chunk.css",
-    "static/js/main.3f6842ab.chunk.js"
+    "static/js/main.933e2dd8.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4955ae9e2d7925562ce22423d95a4980",
+    "revision": "627c567a45052b0a5083ff240acdeb66",
     "url": "/Portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/css/2.64a99b10.chunk.css"
   },
   {
-    "revision": "561e6ec7c35bb75fdc00",
+    "revision": "5a60870bd6ea986b11e9",
     "url": "/Portfolio/static/css/main.52110c6a.chunk.css"
   },
   {
@@ -20,28 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.d166b433.chunk.js.LICENSE"
   },
   {
-    "revision": "561e6ec7c35bb75fdc00",
-    "url": "/Portfolio/static/js/main.3f6842ab.chunk.js"
+    "revision": "5a60870bd6ea986b11e9",
+    "url": "/Portfolio/static/js/main.933e2dd8.chunk.js"
   },
   {
     "revision": "8f71a7b0ced28a6e37d3",
     "url": "/Portfolio/static/js/runtime-main.ba21c266.js"
   },
   {
-    "revision": "2e2d08a41019b6135d30d5a02330d162",
-    "url": "/Portfolio/static/media/BurgerQueen.2e2d08a4.png"
-  },
-  {
     "revision": "d97f931a47434a4a1807c39cae36839a",
     "url": "/Portfolio/static/media/CV.d97f931a.svg"
-  },
-  {
-    "revision": "de281d62219f9e2392119b9754ea47f6",
-    "url": "/Portfolio/static/media/RedSocial.de281d62.jpg"
-  },
-  {
-    "revision": "0d93f21d494ffe3a988c1f7e5ec92eeb",
-    "url": "/Portfolio/static/media/SocialData.0d93f21d.jpg"
   },
   {
     "revision": "e18062ca5b27695e263982a8dfcde548",
@@ -62,5 +50,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2a4875a9de274d1beb71d176c632e747",
     "url": "/Portfolio/static/media/logo.2a4875a9.svg"
+  },
+  {
+    "revision": "06a2529455246b75390d0dc1086c0e94",
+    "url": "/Portfolio/static/media/redSocial.06a25294.png"
+  },
+  {
+    "revision": "3e3f847b8d6a57d1acb7ef11c5c48e75",
+    "url": "/Portfolio/static/media/restoran.3e3f847b.png"
+  },
+  {
+    "revision": "5ae0b661137eaa38dec61555c006d959",
+    "url": "/Portfolio/static/media/socialD.5ae0b661.png"
   }
 ]);
