@@ -1,9 +1,9 @@
 import React from 'react';
 import ProjectsCss from '../Components/Projects.css';
 import 'bootstrap/dist/css/bootstrap.css';
-import BurgerQueen from '../Styles/BurgerQueen.png';
-import Laboratorians from '../Styles/RedSocial.jpg';
-import SocialData from '../Styles/SocialData.jpg';
+import BurgerQueen from '../Styles/restoran.png';
+import Laboratorians from '../Styles/redSocial.png';
+import SocialData from '../Styles/socialD.png';
 import MenuIcon from '../Styles/ASM.png'
 
 
