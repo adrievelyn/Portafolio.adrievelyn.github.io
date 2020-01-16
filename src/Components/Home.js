@@ -43,8 +43,8 @@ class Home extends React.Component {
 							<img border="0" height="260" width="300" src={PersonalPhoto} />
 						</div>
 						<div className='Name'>
-							<p> Hola, Soy Adriana,</p>
-							<p>Desarrolladora Front-End</p>
+							<p> Mi nombre, Adriana,</p>
+							<p>Mi Profesión, Front-End Developer</p>
 						</div>
 				</div>
 		<About />
