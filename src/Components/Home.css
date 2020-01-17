@@ -22,9 +22,7 @@
 	justify-content: space-between;
 	margin-top: 0;
 	margin-left: 15%;
-	
-   
-       
+
 }
 
 .Menu{
@@ -42,8 +40,6 @@
 	display:scroll;
      position:fixed;
      margin-top: 1%;
-     
-
 
 
 }
@@ -63,14 +59,15 @@
 .Photo{
 	margin-top: 80px;
 	margin-left: 18%;
+	
 }
 
 .Name{
 	margin-top: 130px;
-	margin-right: 20%;
 	color: #F27127;
 	font-size: 30px;
-
+	margin-right: 20%;
+	 margin-left: 5%;
 }
 
 a:hover{
@@ -88,7 +85,6 @@ p{
 font-family: 'Alegreya Sans', sans-serif;
 margin-left: 10%;
 }
-
 
 
 @media screen and (max-width:800px){

@@ -5,6 +5,7 @@ import GitHub from '../Styles/github2.svg';
 import GMail from '../Styles/gmail.svg';
 import CVAdri from '../Styles/CV.svg';
 import MenuIcon from '../Styles/ASM.png'
+import { Document, Page } from "react-pdf";
 
 
 class CV extends React.Component {

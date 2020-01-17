@@ -6,15 +6,25 @@ import PersonalPhoto from '../Styles/adriana_foto.png';
 import About from '../Components/About.js';
 import Projects from '../Components/Projects.js';
 import CV from '../Components/CV.js';
+import CSSTransitionGroup from 'react-addons-css-transition-group';
 
 	//<div className='Button'>
 					//<button type=""><img border="0" height="40" width="50" src={MenuIcon} /></button>
 				//</div>
+
+
+
 class Home extends React.Component {
 	render(){
 		return (
 
+
 <div id='1' style={{backgroundColor: "black" }} className='Menu'>
+
+    
+
+
+
 
 
 			<div className='Icono'>
@@ -42,14 +52,21 @@ class Home extends React.Component {
 						<div className='Photo'>
 							<img border="0" height="260" width="300" src={PersonalPhoto} />
 						</div>
+
+				
 						<div className='Name'>
-							<p> Mi nombre, Adriana,</p>
-							<p>Mi Profesión, Front-End Developer</p>
+							<p> Hola, mi nombre es, Adriana,</p>
+							<p> Front-End Developer</p>
 						</div>
+					
+				
 				</div>
+				
 		<About />
 		<Projects />
 		<CV />
+
+		
 </div>
 
 	
