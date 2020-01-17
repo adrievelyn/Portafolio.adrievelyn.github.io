@@ -21,12 +21,6 @@ class Home extends React.Component {
 
 <div id='1' style={{backgroundColor: "black" }} className='Menu'>
 
-    
-
-
-
-
-
 			<div className='Icono'>
 
 			
